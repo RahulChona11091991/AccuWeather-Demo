@@ -7,7 +7,25 @@
 		<key>WeatherForcast.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>11</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0F35095020072478009114D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0F35096720072478009114D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0F35097220072478009114D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
